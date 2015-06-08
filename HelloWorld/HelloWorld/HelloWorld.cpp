@@ -11,6 +11,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	cout << "Hello World 02" << endl;
 	cout << "Hello World 03" << endl;
 	cout << "Hello World 04" << endl;
+	cout << "Hello World 05" << endl;
 	return 0;
 }
 
